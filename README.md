@@ -1,3 +1,5 @@
+# Observação: O desenvolvimento teve como foco principal o backend
+
 # 🧩 FrontEnd Peti9
 
 Este é o frontend desenvolvido para consumir a API do projeto [backend-peti9](https://github.com/EduardoDandolini/backend-peti9).
